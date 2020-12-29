@@ -1,0 +1,21 @@
+{
+	"customernumber": "d5d5b72c-edd7-11ea-ab7a-0ec120e133fc",
+	"ordernumber": "d5d5b72d-edd7-11ea-ab7a-0ec120e133fc",
+	"comments": "syjizruunqxuaevyiaqx",
+	"orderdate": "2020-09-03",
+	"ordertype": "sale",
+	"shipdate": "2020-09-16",
+	"discount": 0.1965497953690316,
+	"quantity": 29,
+	"productnumber": "d5d5b72e-edd7-11ea-ab7a-0ec120e133fc"
+} {
+	"customernumber": "d5d5b72f-edd7-11ea-ab7a-0ec120e133fc",
+	"ordernumber": "d5d5b730-edd7-11ea-ab7a-0ec120e133fc",
+	"comments": "uixjbivlhdtmaelfjlrn",
+	"orderdate": "2020-09-03",
+	"ordertype": "sale",
+	"shipdate": "2020-09-16",
+	"discount": 0.6820749537170963,
+	"quantity": 42,
+	"productnumber": "d5d5b731-edd7-11ea-ab7a-0ec120e133fc"
+}

@@ -9,7 +9,7 @@ setuptools.setup(
     name="redshift_demo",
     version="0.0.1",
 
-    description="An empty CDK Python app",
+    description="Amazon Redshift Demo",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="redshift_demo"),
 
     install_requires=[
-        "aws-cdk.core==1.79.0",
+        "aws-cdk.core==1.80.0",
     ],
 
     python_requires=">=3.6",
