@@ -17,6 +17,9 @@
       {
         "learn_aws_advanced_security": "https://www.udemy.com/course/aws-cloud-security-proactive-way"
       },
+      {
+        "learn_aws_cdk": "https://www.udemy.com/course/aws-cloud-development-kit-from-beginner-to-professional"
+      },
       { "project": "redshift-demo" },
       {
         "github_repo_url": "https://github.com/miztiik/redshift-demo"
